@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="MovieInfo">
+  <rect width="64" height="64" rx="14" fill="#0b0d10"/>
+  <rect x="10" y="12" width="44" height="40" rx="6" fill="#151920" stroke="#e50914" stroke-width="2.5"/>
+  <path d="M18 18h6v6h-6zm0 11h6v6h-6zm0 11h6v6h-6zm22-22h6v6h-6zm0 11h6v6h-6zm0 11h6v6h-6z" fill="#e50914" opacity="0.9"/>
+  <path d="M28 24.5v15l13-7.5-13-7.5z" fill="#f3f5f7"/>
+</svg>
